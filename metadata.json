@@ -1,0 +1,6 @@
+{
+  "name": "Santa Biblia RVR1960",
+  "description": "Aplicación completa de la Santa Biblia Reina Valera 1960 (RVR1960) con los 66 libros, búsqueda inteligente de frases y lectura optimizada.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
